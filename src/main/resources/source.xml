@@ -1,0 +1,1479 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<movies xmlns="http://www.epam-training.by" xsi:schemaLocation="http://www.epam-training.by schema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <movie>
+      <title>
+         <russian>Истории семьи Майровиц</russian>
+         <original>The Meyerowitz Stories (New and Selected)</original>
+      </title>
+      <year>2017</year>
+      <country>США</country>
+      <director>Ноа Баумбак</director>
+      <actor>Адам Сэндлер, Грэйс Ван Паттен, Дастин Хоффман</actor>
+      <genre>драма, комедия</genre>
+      <imdb-rating>7,1</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Окча</russian>
+         <original>Okja</original>
+      </title>
+      <year>2017</year>
+      <country>Корея Южная, США</country>
+      <director>Пон Джун-хо</director>
+      <actor>Ан Со-хён, Тильда Суинтон, Джейк Джилленхол</actor>
+      <genre>фантастика, боевик, драма</genre>
+      <imdb-rating>7.4</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Хорошее время</russian>
+         <original>Good Time</original>
+      </title>
+      <year>2017</year>
+      <country>США</country>
+      <director>Бен Сэфди, Джошуа Сэфди</director>
+      <actor>Роберт Паттинсон, Бен Сэфди, Taliah Webster</actor>
+      <genre>триллер, драма, криминал</genre>
+      <imdb-rating>7,5</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Квадрат</russian>
+         <original>The Square</original>
+      </title>
+      <year>2017</year>
+      <country>Швеция, Германия, Франция</country>
+      <director>Рубен Эстлунд</director>
+      <actor>Клас Банг, Элизабет Мосс, Доминик Уэст</actor>
+      <genre>драма, комедия</genre>
+      <imdb-rating>7,7</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Мир, полный чудес</russian>
+         <original>Wonderstruck</original>
+      </title>
+      <year>2017</year>
+      <country>США</country>
+      <director>Тодд Хейнс</director>
+      <actor>Милли Симмондс, Джулианна Мур, Кори Майкл Смит</actor>
+      <genre>драма, детектив, семейный</genre>
+      <imdb-rating>6,9</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Тебя никогда здесь не было</russian>
+         <original>You Were Never Really Here</original>
+      </title>
+      <year>2017</year>
+      <country>Великобритания, Франция, США</country>
+      <director>Линн Рэмси</director>
+      <actor>Хоакин Феникс, Екатерина Самсонов, Алессандро Нивола</actor>
+      <genre>триллер, драма, детектив</genre>
+      <imdb-rating>7,5</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Хорошего дня</russian>
+         <original>Hao ji le</original>
+      </title>
+      <year>2017</year>
+      <country>Китай</country>
+      <director>Лю Цзянь</director>
+      <actor>Хоакин Феникс, Екатерина Самсонов, Алессандро Нивола</actor>
+      <genre>мультфильм, комедия, криминал</genre>
+      <imdb-rating>6,9</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Ана, любовь моя</russian>
+         <original>Ana, mon amour</original>
+      </title>
+      <year>2017</year>
+      <country>Румыния, Германия, Франция</country>
+      <director>Калин Питер Нецер</director>
+      <actor>Диана Каваллиоти, Mircea Postelnicu, Кармен Тэнасе</actor>
+      <genre>драма</genre>
+      <imdb-rating>7,3</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Реквием по госпоже Ю.</russian>
+         <original>Rekvijem za gospodju J</original>
+      </title>
+      <year>2017</year>
+      <country>Сербия, Болгария, Македония</country>
+      <director>Боян Вулетич</director>
+      <actor>Миряна Каранович, Йована Гаврилович, Даника Неделькович</actor>
+      <genre>комедия</genre>
+      <imdb-rating>7,4</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Дикая история</russian>
+         <original>El bar</original>
+      </title>
+      <year>2016</year>
+      <country>Испания, Аргентина</country>
+      <director>Алекс де ла Иглесиа</director>
+      <actor>Бланка Суарес, Марио Касас, Кармен Мачи</actor>
+      <genre>ужасы, триллер, комедия</genre>
+      <imdb-rating>6,4</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Затерянный город Z</russian>
+         <original>The Lost City of Z</original>
+      </title>
+      <year>2016</year>
+      <country>США</country>
+      <director>Джеймс Грэй</director>
+      <actor>Чарли Ханнэм, Роберт Паттинсон, Сиенна Миллер</actor>
+      <genre>драма, приключения, биография</genre>
+      <imdb-rating>6,6</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Зови меня своим именем</russian>
+         <original>Call Me by Your Name</original>
+      </title>
+      <year>2017</year>
+      <country>Италия, Франция, Бразилия</country>
+      <director>Лука Гуаданьино</director>
+      <actor>Арми Хаммер, Тимоти Шаламе, Майкл Стулбарг</actor>
+      <genre>драма, мелодрама</genre>
+      <imdb-rating>8,4</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Заложники</russian>
+         <original />
+      </title>
+      <year>2017</year>
+      <country>Россия, Грузия</country>
+      <director>Резо Гигинеишвили</director>
+      <actor>Иракли Квирикадзе, Тинатин Далакишвили</actor>
+      <genre>драма, триллер, биография</genre>
+      <imdb-rating>6,6</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Фелисите</russian>
+         <original>Felicite</original>
+      </title>
+      <year>2017</year>
+      <country>Франция, Германия, Бельгия</country>
+      <director>Ален Гомис</director>
+      <actor>V?ro Tshanda Beya Mputu, Gaetan Claudia, Papi Mpaka</actor>
+      <genre>драма, музыка</genre>
+      <imdb-rating>6,6</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Фантастическая женщина</russian>
+         <original>Una Mujer Fantastica</original>
+      </title>
+      <year>2017</year>
+      <country>Чили, Германия, Испания</country>
+      <director>Себастьян Лелио</director>
+      <actor>Daniela Vega, Франсиско Рейес, Луис Ньекко</actor>
+      <genre>драма</genre>
+      <imdb-rating>7,5</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>По ту сторону надежды</russian>
+         <original>Toivon tuolla puolen</original>
+      </title>
+      <year>2017</year>
+      <country>Финляндия, Германия</country>
+      <director>Аки Каурисмяки</director>
+      <actor>Вилле Виртанен, Кати Оутинен, Доме Карукоски</actor>
+      <genre>драма, комедия</genre>
+      <imdb-rating>7,3</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>О теле и душе</russian>
+         <original>Testr?l es Lelekr?l</original>
+      </title>
+      <year>2017</year>
+      <country>Венгрия</country>
+      <director>Ильдико Эньеди</director>
+      <actor>Геза Морчани, Александра Борбей, Золтан Шнайдер</actor>
+      <genre>драма, мелодрама</genre>
+      <imdb-rating>8,1</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Аустерлиц</russian>
+         <original>Austerlitz</original>
+      </title>
+      <year>2016</year>
+      <country>Германия</country>
+      <director>Сергей Лозница</director>
+      <actor>Геза Морчани, Александра Борбей, Золтан Шнайдер</actor>
+      <genre>документальный</genre>
+      <imdb-rating>6,6</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Кроткая</russian>
+         <original />
+      </title>
+      <year>2017</year>
+      <country>Франция, Россия, Германия</country>
+      <director>Сергей Лозница</director>
+      <actor>Василина Маковцева, Валериу Андрюцэ, Сергей Колесов</actor>
+      <genre>драма, детектив</genre>
+      <imdb-rating>7,1</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Перестрелка</russian>
+         <original>Free Fire</original>
+      </title>
+      <year>2016</year>
+      <country>Великобритания, Франция</country>
+      <director>Бен Уитли</director>
+      <actor>Энцо Чиленти, Сэм Райли, Майкл Смайли</actor>
+      <genre>боевик, триллер, комедия</genre>
+      <imdb-rating>6,5</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Песня за песней</russian>
+         <original>Song to Song</original>
+      </title>
+      <year>2015</year>
+      <country>США</country>
+      <director>Терренс Малик</director>
+      <actor>Натали Портман, Майкл Фассбендер, Райан Гослинг</actor>
+      <genre>драма, мелодрама, музыка</genre>
+      <imdb-rating>5,8</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Прочь</russian>
+         <original>Get Out</original>
+      </title>
+      <year>2017</year>
+      <country>США</country>
+      <director>Джордан Пил</director>
+      <actor>Дэниэл Калуя, Эллисон Уильямс, Кэтрин Кинер</actor>
+      <genre>ужасы, детектив, триллер</genre>
+      <imdb-rating>7,7</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Рыжий пес: Самый верный</russian>
+         <original>Red Dog: True Blue</original>
+      </title>
+      <year>2016</year>
+      <country>Австралия</country>
+      <director>Крив Стендерс</director>
+      <actor>Джейсон Айзекс, Леви Миллер, Брайан Браун</actor>
+      <genre>драма, мелодрама, комедия</genre>
+      <imdb-rating>6,5</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>В лучах солнца</russian>
+         <original />
+      </title>
+      <year>2015</year>
+      <country>Чехия, Россия, Германия</country>
+      <director>Виталий Манский</director>
+      <actor>Ли Джин-ми, Ю-ён, Хе-ён</actor>
+      <genre>документальный</genre>
+      <imdb-rating>7,4</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Костер на ветру</russian>
+         <original />
+      </title>
+      <year>2016</year>
+      <country>Россия</country>
+      <director>Дмитрий Давыдов</director>
+      <actor>Алексей Устинов, Николай Солдатов, Михаил Лазарев</actor>
+      <genre>драма</genre>
+      <imdb-rating />
+   </movie>
+   <movie>
+      <title>
+         <russian>Уилсон</russian>
+         <original>Wilson</original>
+      </title>
+      <year>2017</year>
+      <country>США</country>
+      <director>Крэйг Джонсон</director>
+      <actor>Вуди Харрельсон, Лора Дерн, Джуди Грир</actor>
+      <genre>драма, комедия</genre>
+      <imdb-rating>5,8</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Манифесто</russian>
+         <original>Manifesto</original>
+      </title>
+      <year>2016</year>
+      <country>Германия, Австрия</country>
+      <director>Джулиан Розефельдт</director>
+      <actor>Кейт Бланшетт, Эрика Бауэр, Руби Бустаманте</actor>
+      <genre>драма</genre>
+      <imdb-rating>6,9</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Де Пальма</russian>
+         <original>De Palma</original>
+      </title>
+      <year>2015</year>
+      <country>США</country>
+      <director>Ноа Баумбак, Джейк Пэлтроу</director>
+      <actor>Брайан Де Пальма</actor>
+      <genre>документальный, биография</genre>
+      <imdb-rating>7,4</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Кроссы</russian>
+         <original>Kicks</original>
+      </title>
+      <year>2016</year>
+      <country>США</country>
+      <director>Джастин Типпинг</director>
+      <actor>Джакинг Гиллори, Кристофер Джордан Уоллес, Кристофер Мейер</actor>
+      <genre>драма, приключения</genre>
+      <imdb-rating>6,2</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Шум и ярость</russian>
+         <original>The Sound and the Fury</original>
+      </title>
+      <year>2014</year>
+      <country>США</country>
+      <director>Джеймс Франко</director>
+      <actor>Джеймс Франко, Тим Блейк Нельсон, Скотт Хэйз</actor>
+      <genre>драма</genre>
+      <imdb-rating>4,7</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Глубоководный горизонт</russian>
+         <original>Deepwater Horizon</original>
+      </title>
+      <year>2016</year>
+      <country>Гонконг, США</country>
+      <director>Питер Берг</director>
+      <actor>Марк Уолберг, Курт Рассел, Джон Малкович</actor>
+      <genre>боевик, триллер, драма</genre>
+      <imdb-rating>7,2</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>В долине насилия</russian>
+         <original>In a Valley of Violence</original>
+      </title>
+      <year>2016</year>
+      <country>США</country>
+      <director>Тай Уэст</director>
+      <actor>Итан Хоук, Джон Траволта, Таисса Фармига</actor>
+      <genre>вестерн, драма, криминал</genre>
+      <imdb-rating>6</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Кошмар</russian>
+         <original>Der Nachtmahr</original>
+      </title>
+      <year>2015</year>
+      <country>Германия</country>
+      <director>Ахим Борнак</director>
+      <actor>Каролин Генцков, Зина Ткоч, Уилсон Оксенкнехт</actor>
+      <genre>драма, детектив</genre>
+      <imdb-rating>6,7</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Плохая партия</russian>
+         <original>The Bad Batch</original>
+      </title>
+      <year>2016</year>
+      <country>США</country>
+      <director>Ана Лили Амирпур</director>
+      <actor>Сьюки Уотерхаус, Джейсон Момоа, Джайда Финк</actor>
+      <genre>ужасы, фантастика, драма</genre>
+      <imdb-rating>5,3</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Отголоски</russian>
+         <original>Echoes</original>
+      </title>
+      <year>2014</year>
+      <country>США</country>
+      <director>Нилс Тимм</director>
+      <actor>Стивен Брэнд, Кевин Брюертон, Айвори Дортч</actor>
+      <genre>ужасы, триллер, драма</genre>
+      <imdb-rating>4,3</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Млекопитающее</russian>
+         <original>Mammal</original>
+      </title>
+      <year>2016</year>
+      <country>Ирландия, Нидерланды, Люксембург</country>
+      <director>Ребекка Дэйли</director>
+      <actor>Рэйчел Гриффитс, Майкл МакЭлхаттон, Барри Кеоган</actor>
+      <genre>драма, криминал</genre>
+      <imdb-rating>6,5</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Удушье</russian>
+         <original>Sun Choke</original>
+      </title>
+      <year>2015</year>
+      <country>США</country>
+      <director>Бен Крешимэн</director>
+      <actor>Кристина Эмбер, Derek Bevil, Джим Бёвен</actor>
+      <genre>триллер, драма, детектив</genre>
+      <imdb-rating>6</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Анимированная жизнь</russian>
+         <original>Life, Animated</original>
+      </title>
+      <year>2016</year>
+      <country>США</country>
+      <director>Роджер Росс Уильямс</director>
+      <actor>Джонатан Фриман, Гилберт Готтфрид, Алан Розенблатт</actor>
+      <genre>мультфильм, документальный, драма</genre>
+      <imdb-rating>7,5</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Бридженд</russian>
+         <original>Bridgend</original>
+      </title>
+      <year>2015</year>
+      <country>Дания</country>
+      <director>Йеппе Рёнде</director>
+      <actor>Ханна Мюррэй, Джош О’Коннор, Эдриан Роулинз</actor>
+      <genre>драма</genre>
+      <imdb-rating>5,6</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Кейт играет Кристин</russian>
+         <original>Kate Plays Christine</original>
+      </title>
+      <year>2016</year>
+      <country>США</country>
+      <director>Роберт Грин</director>
+      <actor>Стефани Котни, Майкл Рэй Дэвис, Захари Госсетт</actor>
+      <genre>документальный, триллер, драма</genre>
+      <imdb-rating>6,3</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Браво!</russian>
+         <original>Aferim!</original>
+      </title>
+      <year>2015</year>
+      <country>Румыния, Болгария, Чехия</country>
+      <director>Раду Жуде</director>
+      <actor>Теодор Корбан, Mihai Comanoiu, Тома Кузин</actor>
+      <genre>драма, комедия, приключения</genre>
+      <imdb-rating>7,7</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Винер</russian>
+         <original>Weiner</original>
+      </title>
+      <year>2016</year>
+      <country>США</country>
+      <director>Джош Кригман, Элиз Стайнберг</director>
+      <actor>Энтони Уэйнер, Huma Abedin, Jordan Zain Weiner</actor>
+      <genre>документальный</genre>
+      <imdb-rating>7,6</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Мама</russian>
+         <original />
+      </title>
+      <year>2016</year>
+      <country>Россия</country>
+      <director>Кирилл Плетнёв</director>
+      <actor>Светлана Ходченкова, Стефания Лебедева, Ольга Сирина</actor>
+      <genre>короткометражка</genre>
+      <imdb-rating />
+   </movie>
+   <movie>
+      <title>
+         <russian>Щекотка</russian>
+         <original>Tickled</original>
+      </title>
+      <year>2016</year>
+      <country>Новая Зеландия</country>
+      <director>Дэвид Ферриер, Дилан Рив</director>
+      <actor>Дэвид Ферриер, Дилан Рив, Marko Realmonte</actor>
+      <genre>документальный, детектив</genre>
+      <imdb-rating>7,6</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Midnight Special</russian>
+         <original>Midnight Special</original>
+      </title>
+      <year>2016</year>
+      <country>США, Греция</country>
+      <director>Джефф Николс</director>
+      <actor>Майкл Шеннон, Джоэл Эдгертон, Кирстен Данст</actor>
+      <genre>фантастика, триллер, драма</genre>
+      <imdb-rating>6,7</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Ни на небесах, ни на земле</russian>
+         <original>Ni le ciel ni la terre</original>
+      </title>
+      <year>2015</year>
+      <country>Франция, Бельгия</country>
+      <director>Клемент Кожитор</director>
+      <actor>Жереми Ренье, Сванн Арло, Марк Роберт</actor>
+      <genre>фэнтези, триллер, драма</genre>
+      <imdb-rating>6,4</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Слишком поздно</russian>
+         <original>Too Late</original>
+      </title>
+      <year>2015</year>
+      <country>США</country>
+      <director>Дэннис Хаук</director>
+      <actor>Кристал Рид, Натали Зи, Дичен Лакмэн</actor>
+      <genre>драма</genre>
+      <imdb-rating>6,6</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Принц</russian>
+         <original>Prins</original>
+      </title>
+      <year>2015</year>
+      <country>Нидерланды</country>
+      <director>Сэм де Йонг</director>
+      <actor>Ayoub Elasri, Йорик Шолтен, Ашраф Мецьяни</actor>
+      <genre>драма</genre>
+      <imdb-rating>6,6</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Тишина</russian>
+         <original>Hush</original>
+      </title>
+      <year>2016</year>
+      <country>США</country>
+      <director>Майк Флэнеган</director>
+      <actor>Джон Галлахер мл., Кейт Сигел, Майкл Трукко</actor>
+      <genre>ужасы, триллер</genre>
+      <imdb-rating>6,6</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Рождество, опять</russian>
+         <original>Christmas, Again</original>
+      </title>
+      <year>2014</year>
+      <country>США</country>
+      <director>Чарльз Покел</director>
+      <actor>Кентакер Одли, Ханна Гросс, Крэйг Бутта</actor>
+      <genre>драма, мелодрама</genre>
+      <imdb-rating>6,6</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Джеймс Уайт</russian>
+         <original>James White</original>
+      </title>
+      <year>2015</year>
+      <country>США</country>
+      <director>Джош Монд</director>
+      <actor>Кристофер Эбботт, Синтия Никсон, Скотт Мескади</actor>
+      <genre>драма</genre>
+      <imdb-rating>7,1</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Джим: История Джеймса Фоули</russian>
+         <original>Jim: The James Foley Story</original>
+      </title>
+      <year>2016</year>
+      <country>США</country>
+      <director>Брайан Оакс</director>
+      <actor>Джеймс Фоули, Unai Aranzadi, Zac Baillie</actor>
+      <genre>документальный, биография</genre>
+      <imdb-rating>7,7</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Дары смерти</russian>
+         <original>The Devil's Candy</original>
+      </title>
+      <year>2015</year>
+      <country>США</country>
+      <director>Шон Бирн</director>
+      <actor>Итэн Эмбри, Шири Эпплби, Прюитт Тэйлор Винс</actor>
+      <genre>ужасы</genre>
+      <imdb-rating>6,6</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Из тьмы</russian>
+         <original>The Hallow</original>
+      </title>
+      <year>2015</year>
+      <country>Великобритания, США, Ирландия</country>
+      <director>Корин Харди</director>
+      <actor>Джозеф Моул, Бояна Новакович, Майкл МакЭлхаттон</actor>
+      <genre>ужасы</genre>
+      <imdb-rating>5,7</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Не дыши</russian>
+         <original>Don't Breathe</original>
+      </title>
+      <year>2015</year>
+      <country>США</country>
+      <director>Федерико Альварес</director>
+      <actor>Стивен Лэнг, Джейн Леви, Дилан Миннетт</actor>
+      <genre>ужасы, триллер, криминал</genre>
+      <imdb-rating>7,1</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Соблюдение</russian>
+         <original>Observance</original>
+      </title>
+      <year>2015</year>
+      <country>Австралия</country>
+      <director>Джозеф Симс</director>
+      <actor>Стефани Кинг, Линдсэй Фаррис, Брендан Коуэлл</actor>
+      <genre>ужасы, триллер, детектив</genre>
+      <imdb-rating>4,7</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Шелли</russian>
+         <original>Shelley</original>
+      </title>
+      <year>2016</year>
+      <country>Дания, Швеция</country>
+      <director>Али Аббаси</director>
+      <actor>Эллен Доррит Петерсен, Козмина Стратан, Бьорн Андресен</actor>
+      <genre>ужасы, драма</genre>
+      <imdb-rating>5,2</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Грешники и праведники</russian>
+         <original>Outlaws and Angels</original>
+      </title>
+      <year>2016</year>
+      <country>США</country>
+      <director>ДжейТи Мольнер</director>
+      <actor>Франческа Фишер-Иствуд, Чад Майкл Мюррэй, Тери Поло</actor>
+      <genre>боевик, триллер, драма</genre>
+      <imdb-rating>5,4</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Приступы</russian>
+         <original>The Fits</original>
+      </title>
+      <year>2015</year>
+      <country>США</country>
+      <director>Анна Роуз Холмер</director>
+      <actor>Royalty Hightower, Алексис Неблетт, Лорен Гибсон</actor>
+      <genre>драма</genre>
+      <imdb-rating>6,8</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Алойс</russian>
+         <original>Aloys</original>
+      </title>
+      <year>2016</year>
+      <country>Швейцария, Франция</country>
+      <director>Тобиас Нолл</director>
+      <actor>Георг Фридрих, Tilde von Overbeck, Камиль Крейчи</actor>
+      <genre>фантастика, фэнтези, драма</genre>
+      <imdb-rating>6,4</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Феномен</russian>
+         <original>The Phenom</original>
+      </title>
+      <year>2016</year>
+      <country>США</country>
+      <director>Ноа Бушел</director>
+      <actor>Джонни Симмонс, Итан Хоук, Пол Джаматти</actor>
+      <genre>драма, спорт</genre>
+      <imdb-rating>5,2</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Ночь в СПА</russian>
+         <original>Spa Night</original>
+      </title>
+      <year>2016</year>
+      <country>США</country>
+      <director>Эндрю Ан</director>
+      <actor>Джо Со, Haerry Kim, Youn Ho Cho</actor>
+      <genre>драма</genre>
+      <imdb-rating>5,6</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Зеленая комната</russian>
+         <original>Green Room</original>
+      </title>
+      <year>2015</year>
+      <country>США</country>
+      <director>Джереми Солнье</director>
+      <actor>Антон Ельчин, Имоджен Путс, Патрик Стюарт</actor>
+      <genre>триллер, криминал</genre>
+      <imdb-rating>7</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Я, Дэниел Блэйк</russian>
+         <original>I, Daniel Blake</original>
+      </title>
+      <year>2016</year>
+      <country>Великобритания, Франция, Бельгия</country>
+      <director>Кен Лоуч</director>
+      <actor>Дэйв Джонс, Хейли Сквайрс, Бриана Шенн</actor>
+      <genre>драма</genre>
+      <imdb-rating>7,9</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Приглашение</russian>
+         <original>The Invitation</original>
+      </title>
+      <year>2015</year>
+      <country>США</country>
+      <director>Карин Кусама</director>
+      <actor>Логан Маршалл-Грин, Эмаяци Коринеальди, Эйден Лавкамп</actor>
+      <genre>триллер, драма, детектив</genre>
+      <imdb-rating>6,7</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Аномализа</russian>
+         <original>Anomalisa</original>
+      </title>
+      <year>2015</year>
+      <country>США</country>
+      <director>Дьюк Джонсон, Чарли Кауфман</director>
+      <actor>Дэвид Тьюлис, Дженнифер Джейсон Ли, Том Нунен</actor>
+      <genre>мультфильм, драма, мелодрама</genre>
+      <imdb-rating>7,2</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Ведьма</russian>
+         <original>The VVitch: A New-England Folktale</original>
+      </title>
+      <year>2015</year>
+      <country>США, Великобритания, Канада</country>
+      <director>Роберт Эггерс</director>
+      <actor>Аня Тейлор-Джой, Ралф Айнесон, Кейт Дики</actor>
+      <genre>ужасы, детектив</genre>
+      <imdb-rating>6,8</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Глаза моей матери</russian>
+         <original>The Eyes of My Mother</original>
+      </title>
+      <year>2016</year>
+      <country>США</country>
+      <director>Николас Песке</director>
+      <actor>Кика Магалхэс, Paul Nazak, Дайан Агостини</actor>
+      <genre>ужасы, драма</genre>
+      <imdb-rating>6,2</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Февраль</russian>
+         <original>February</original>
+      </title>
+      <year>2015</year>
+      <country>США, Канада</country>
+      <director>Оз Перкинс</director>
+      <actor>Эмма Робертс, Кирнан Шипка, Люси Бойнтон</actor>
+      <genre>ужасы, триллер</genre>
+      <imdb-rating>5,5</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>В тихом омуте</russian>
+         <original>Ma Loute</original>
+      </title>
+      <year>2016</year>
+      <country>Франция</country>
+      <director>Брюно Дюмон</director>
+      <actor>Фабрис Лукини, Жюльет Бинош, Валерия Бруни-Тедески</actor>
+      <genre>комедия</genre>
+      <imdb-rating>6,1</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Выпускной</russian>
+         <original>Bacalaureat</original>
+      </title>
+      <year>2016</year>
+      <country>Румыния, Франция, Бельгия</country>
+      <director>Кристиан Мунджиу</director>
+      <actor>Адриан Титьени, Мария-Виктория Драгус, Лиа Буньяр</actor>
+      <genre>драма, криминал</genre>
+      <imdb-rating>7,4</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Истерзанные сердца</russian>
+         <original>Scarred Hearts</original>
+      </title>
+      <year>2016</year>
+      <country>Румыния, Германия</country>
+      <director>Раду Жуде</director>
+      <actor>Сербан Павлу, Габриел Спахиу, София Николаеску</actor>
+      <genre>драма, биография</genre>
+      <imdb-rating>7,2</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Сьераневада</russian>
+         <original>Sieranevada</original>
+      </title>
+      <year>2016</year>
+      <country>Румыния, Франция, Босния и Герцеговина</country>
+      <director>Кристи Пую</director>
+      <actor>Мими Брэнеску, Judith State, Богдан Думитраке</actor>
+      <genre>драма, комедия</genre>
+      <imdb-rating>7,6</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Любой ценой</russian>
+         <original>Hell or High Water</original>
+      </title>
+      <year>2016</year>
+      <country>США</country>
+      <director>Дэвид Маккензи</director>
+      <actor>Джефф Бриджес, Крис Пайн, Бен Фостер</actor>
+      <genre>триллер, драма, криминал</genre>
+      <imdb-rating>7,6</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Человек человеку волк</russian>
+         <original>Dog Eat Dog</original>
+      </title>
+      <year>2016</year>
+      <country>США</country>
+      <director>Пол Шредер</director>
+      <actor>Николас Кейдж, Уиллем Дефо, Мэтт Кук</actor>
+      <genre>триллер, драма, криминал</genre>
+      <imdb-rating>4,6</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Всегда сияй</russian>
+         <original>Always Shine</original>
+      </title>
+      <year>2016</year>
+      <country>США</country>
+      <director>Софи Такал</director>
+      <actor>Маккензи Дэвис, Кэйтлин Фицджералд, Лоуренс Майкл Ливайн</actor>
+      <genre>триллер, драма</genre>
+      <imdb-rating>5,6</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Синг Стрит</russian>
+         <original>Sing Street</original>
+      </title>
+      <year>2016</year>
+      <country>Ирландия, Великобритания, США</country>
+      <director>Джон Карни</director>
+      <actor>Фердия Уолш-Пило, Келли Торнтон, Мария Дойл Кеннеди</actor>
+      <genre>драма, мелодрама, комедия</genre>
+      <imdb-rating>8</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Маленькие мужчины</russian>
+         <original>Little Men</original>
+      </title>
+      <year>2016</year>
+      <country>Греция, Бразилия, США</country>
+      <director>Айра Сакс</director>
+      <actor>Тео Таплитц, Джон Прокаччино, Чинг Валдес-Аран</actor>
+      <genre>драма, семейный</genre>
+      <imdb-rating>6,8</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Детство лидера</russian>
+         <original>The Childhood of a Leader</original>
+      </title>
+      <year>2015</year>
+      <country>Великобритания, Франция, Венгрия</country>
+      <director>Брэйди Корбет</director>
+      <actor>Роберт Паттинсон, Беренис Бежо, Стэйси Мартин</actor>
+      <genre>ужасы, драма, детектив</genre>
+      <imdb-rating>6,1</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Будущее</russian>
+         <original>L'avenir</original>
+      </title>
+      <year>2016</year>
+      <country>Франция, Германия</country>
+      <director>Миа Хансен-Лёв</director>
+      <actor>Изабель Юппер, Андре Маркон, Роман Колинка</actor>
+      <genre>драма</genre>
+      <imdb-rating>7</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Сожги свои карты</russian>
+         <original>Burn Your Maps</original>
+      </title>
+      <year>2016</year>
+      <country>США</country>
+      <director>Джордан Робертс</director>
+      <actor>Вера Фармига, Джейкоб Тремблей, Мартон Чокаш</actor>
+      <genre>приключения</genre>
+      <imdb-rating>8,1</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Преисподняя</russian>
+         <original>Brimstone</original>
+      </title>
+      <year>2016</year>
+      <country>Нидерланды, Франция, Германия</country>
+      <director>Мартин Кулховен</director>
+      <actor>Карла Юри, Кит Харингтон, Дакота Фаннинг</actor>
+      <genre>триллер, вестерн</genre>
+      <imdb-rating>7,1</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Клятва</russian>
+         <original>Eidurinn</original>
+      </title>
+      <year>2016</year>
+      <country>Исландия</country>
+      <director>Бальтасар Кормакур</director>
+      <actor>Бальтасар Кормакур, Гисли Орн Гардарссон, Гера Хилмарсдоттир</actor>
+      <genre>триллер, драма, криминал</genre>
+      <imdb-rating>6,7</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Американская милашка</russian>
+         <original>American Honey</original>
+      </title>
+      <year>2016</year>
+      <country>Великобритания, США</country>
+      <director>Андреа Арнольд</director>
+      <actor>Саша Лэйн, Шайа ЛаБаф, Райли Кио</actor>
+      <genre>драма, мелодрама, приключения</genre>
+      <imdb-rating>7</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Ла-Ла Ленд</russian>
+         <original>La La Land</original>
+      </title>
+      <year>2016</year>
+      <country>США, Гонконг</country>
+      <director>Дэмьен Шазелл</director>
+      <actor>Райан Гослинг, Эмма Стоун, Джон Ледженд</actor>
+      <genre>мюзикл, драма, мелодрама</genre>
+      <imdb-rating>8,1</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Прибытие</russian>
+         <original>Arrival</original>
+      </title>
+      <year>2016</year>
+      <country>США</country>
+      <director>Дени Вильнёв</director>
+      <actor>Эми Адамс, Джереми Реннер, Форест Уитакер</actor>
+      <genre>фантастика, триллер, драма</genre>
+      <imdb-rating>8</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Соединённое королевство</russian>
+         <original>A United Kingdom</original>
+      </title>
+      <year>2016</year>
+      <country>Чехия, Великобритания, США</country>
+      <director>Амма Асанте</director>
+      <actor>Дэвид Ойелоуо, Розамунд Пайк, Том Фелтон</actor>
+      <genre>драма, мелодрама, биография</genre>
+      <imdb-rating>6,8</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Лавинг</russian>
+         <original>Loving</original>
+      </title>
+      <year>2016</year>
+      <country>Великобритания, США</country>
+      <director>Джефф Николс</director>
+      <actor>Рут Негга, Джоэл Эдгертон, Ник Кролл</actor>
+      <genre>драма, мелодрама, биография</genre>
+      <imdb-rating>7</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Королева из Катве</russian>
+         <original>Queen of Katwe</original>
+      </title>
+      <year>2016</year>
+      <country>США</country>
+      <director>Мира Наир</director>
+      <actor>Мадина Налванга, Дэвид Ойелоуо, Лупита Нионго</actor>
+      <genre>драма, биография, спорт</genre>
+      <imdb-rating>7,4</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Как меня зовут</russian>
+         <original />
+      </title>
+      <year>2014</year>
+      <country>Россия</country>
+      <director>Нигина Сайфуллаева</director>
+      <actor>Константин Лавроненко, Александра Бортич, Марина Васильева</actor>
+      <genre>драма</genre>
+      <imdb-rating>6,4</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Страна ОЗ</russian>
+         <original />
+      </title>
+      <year>2015</year>
+      <country>Россия</country>
+      <director>Василий Сигарев</director>
+      <actor>Яна Троянова, Гоша Куценко, Андрей Ильенков</actor>
+      <genre>комедия</genre>
+      <imdb-rating>6,9</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Еще один год</russian>
+         <original />
+      </title>
+      <year>2013</year>
+      <country>Россия</country>
+      <director>Оксана Бычкова</director>
+      <actor>Надежда Лумпова, Алексей Филимонов, Наталья Терешкова</actor>
+      <genre>мелодрама</genre>
+      <imdb-rating>6,6</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Микроб и Бензин</russian>
+         <original>Microbe et Gasoil</original>
+      </title>
+      <year>2015</year>
+      <country>Франция</country>
+      <director>Мишель Гондри</director>
+      <actor>Эндж Д’Аржент, Теофиль Баке, Diane Besnier</actor>
+      <genre>драма, комедия, приключения</genre>
+      <imdb-rating>6,7</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Тони Эрдманн</russian>
+         <original>Toni Erdmann</original>
+      </title>
+      <year>2016</year>
+      <country>Германия, Австрия</country>
+      <director>Марен Аде</director>
+      <actor>Сандра Хюллер, Петер Симонишек, Михаэль Виттенборн</actor>
+      <genre>драма, комедия</genre>
+      <imdb-rating>7,5</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Саутсайд с тобой</russian>
+         <original>Southside with You</original>
+      </title>
+      <year>2016</year>
+      <country>США</country>
+      <director>Ричард Танн</director>
+      <actor>Тика Самптер, Паркер Сойерс, Ванесса Белл Кэллоуэй</actor>
+      <genre>драма, мелодрама, биография</genre>
+      <imdb-rating>6,6</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Гараш</russian>
+         <original />
+      </title>
+      <year>2015</year>
+      <country>Беларусь</country>
+      <director>Андрей Курейчик</director>
+      <actor>Александр Куллинкович, Артем Курень, Юрий Наумов</actor>
+      <genre>комедия</genre>
+      <imdb-rating />
+   </movie>
+   <movie>
+      <title>
+         <russian>Мост через реку Квай</russian>
+         <original>The Bridge on the River Kwai</original>
+      </title>
+      <year>1957</year>
+      <country>Великобритания, США</country>
+      <director>Дэвид Лин</director>
+      <actor>Алек Гиннесс, Уильям Холден, Джек Хоукинс</actor>
+      <genre>драма, приключения, военный</genre>
+      <imdb-rating>8,2</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Несколько женщин</russian>
+         <original>Certain Women</original>
+      </title>
+      <year>2016</year>
+      <country>США</country>
+      <director>Келли Райхардт</director>
+      <actor>Лора Дерн, Кристен Стюарт, Мишель Уильямс</actor>
+      <genre>драма</genre>
+      <imdb-rating>6,5</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Комбинат «Надежда»</russian>
+         <original />
+      </title>
+      <year>2014</year>
+      <country>Россия</country>
+      <director>Наталия Мещанинова</director>
+      <actor>Дарья Савельева, Полина Шанина, Максим Стоянов</actor>
+      <genre>драма</genre>
+      <imdb-rating>6,6</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Здорово и вечно</russian>
+         <original />
+      </title>
+      <year>2014</year>
+      <country>Россия</country>
+      <director>Наталья Чумакова, Анна Цирлина</director>
+      <actor>Егор Летов, Сергей Летов, Александр Рожков</actor>
+      <genre>документальный</genre>
+      <imdb-rating>7,2</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Такса</russian>
+         <original>Wiener-Dog</original>
+      </title>
+      <year>2015</year>
+      <country>США</country>
+      <director>Тодд Солондз</director>
+      <actor>Грета Гервиг, Дэнни ДеВито, Заша Мэмет</actor>
+      <genre>драма, комедия</genre>
+      <imdb-rating>5,9</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Любовь и дружба</russian>
+         <original>Love &amp; Friendship</original>
+      </title>
+      <year>2016</year>
+      <country>Ирландия, Франция, Нидерланды</country>
+      <director>Уит Стиллман</director>
+      <actor>Кейт Бекинсейл, Хлоя Севиньи, Завьер Сэмюэл</actor>
+      <genre>драма, мелодрама, комедия</genre>
+      <imdb-rating>6,5</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Абсолютная власть</russian>
+         <original>Imperium</original>
+      </title>
+      <year>2016</year>
+      <country>США</country>
+      <director>Даниэль Рагуссис</director>
+      <actor>Дэниэл Рэдклифф, Тони Коллетт, Трэйси Леттс</actor>
+      <genre>триллер, драма, криминал</genre>
+      <imdb-rating>6,5</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Зоология</russian>
+         <original />
+      </title>
+      <year>2016</year>
+      <country>Россия, Германия, Франция</country>
+      <director>Иван И. Твердовский</director>
+      <actor>Наталья Павленкова, Дмитрий Грошев, Ирина Чипиженко</actor>
+      <genre>драма, фантастика</genre>
+      <imdb-rating>6,5</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Она</russian>
+         <original>Elle</original>
+      </title>
+      <year>2016</year>
+      <country>Франция, Германия, Бельгия</country>
+      <director>Пол Верховен</director>
+      <actor>Изабель Юппер, Лоран Лафитт, Анн Косиньи</actor>
+      <genre>триллер, драма, криминал</genre>
+      <imdb-rating>7,2</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Гений</russian>
+         <original>Genius</original>
+      </title>
+      <year>2016</year>
+      <country>Великобритания, США</country>
+      <director>Майкл Грандадж</director>
+      <actor>Колин Фёрт, Джуд Лоу, Николь Кидман</actor>
+      <genre>драма, биография</genre>
+      <imdb-rating>6,5</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Человек – швейцарский нож</russian>
+         <original>Swiss Army Man</original>
+      </title>
+      <year>2016</year>
+      <country>США, Швеция</country>
+      <director>Дэн Кван, Дэниэл Шайнерт</director>
+      <actor>Пол Дано, Дэниэл Рэдклифф, Мэри Элизабет Уинстэд</actor>
+      <genre>фэнтези, драма, мелодрама</genre>
+      <imdb-rating>7</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Союзники</russian>
+         <original>Allied</original>
+      </title>
+      <year>2016</year>
+      <country>Великобритания, США</country>
+      <director>Роберт Земекис</director>
+      <actor>Брэд Питт, Марион Котийяр, Лиззи Каплан</actor>
+      <genre>боевик, триллер, драма</genre>
+      <imdb-rating>7,1</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Gimme Danger. История Игги и The Stooges</russian>
+         <original>Gimme Danger</original>
+      </title>
+      <year>2016</year>
+      <country>США</country>
+      <director>Джим Джармуш</director>
+      <actor>Игги Поп, Рон Эшетон, Скотт Эшетон</actor>
+      <genre>документальный, музыка</genre>
+      <imdb-rating>7,2</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Изгой-один: Звёздные войны. Истории</russian>
+         <original>Rogue One</original>
+      </title>
+      <year>2016</year>
+      <country>США</country>
+      <director>Гарет Эдвардс</director>
+      <actor>Фелисити Джонс, Диего Луна, Алан Тьюдик</actor>
+      <genre>фантастика, боевик, приключения</genre>
+      <imdb-rating>7,9</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Под покровом ночи</russian>
+         <original>Nocturnal Animals</original>
+      </title>
+      <year>2016</year>
+      <country>США</country>
+      <director>Том Форд</director>
+      <actor>Эми Адамс, Джейк Джилленхол, Майкл Шеннон</actor>
+      <genre>триллер, драма, мелодрама</genre>
+      <imdb-rating>7,5</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Спасти планету</russian>
+         <original>Before the Flood</original>
+      </title>
+      <year>2016</year>
+      <country>США</country>
+      <director>Фишер Стивенс</director>
+      <actor>Леонардо ДиКаприо, Алехандро Гонсалес Иньярриту, Mike Brune</actor>
+      <genre>документальный, новости</genre>
+      <imdb-rating>8,3</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Лайф</russian>
+         <original>Life</original>
+      </title>
+      <year>2015</year>
+      <country>Великобритания, Германия, Канада</country>
+      <director>Антон Корбейн</director>
+      <actor>Дэйн ДеХаан, Роберт Паттинсон, Питер Лукас</actor>
+      <genre>драма, биография</genre>
+      <imdb-rating>6</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Под электрическими облаками</russian>
+         <original />
+      </title>
+      <year>2015</year>
+      <country>Россия, Польша, Украина</country>
+      <director>Алексей Герман мл.</director>
+      <actor>Луис Франк, Мераб Нинидзе, Чулпан Хаматова</actor>
+      <genre>драма</genre>
+      <imdb-rating>6,3</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>45 лет</russian>
+         <original>45 Years</original>
+      </title>
+      <year>2015</year>
+      <country>Великобритания</country>
+      <director>Эндрю Хэй</director>
+      <actor>Шарлотта Рэмплинг, Том Кортни, Джеральдин Джеймс</actor>
+      <genre>драма, мелодрама</genre>
+      <imdb-rating>7,1</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Море деревьев</russian>
+         <original>The Sea of Trees</original>
+      </title>
+      <year>2015</year>
+      <country>США</country>
+      <director>Гас Ван Сент</director>
+      <actor>Мэттью МакКонахи, Наоми Уоттс, Кен Ватанабе</actor>
+      <genre>драма</genre>
+      <imdb-rating>5,9</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Про Любовь</russian>
+         <original />
+      </title>
+      <year>2015</year>
+      <country>Россия</country>
+      <director>Анна Меликян</director>
+      <actor>Рената Литвинова, Михаил Ефремов, Мария Шалаева</actor>
+      <genre>комедия</genre>
+      <imdb-rating>6,5</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Такси</russian>
+         <original>Taxi</original>
+      </title>
+      <year>2015</year>
+      <country>Иран</country>
+      <director>Джафар Панахи</director>
+      <actor>Джафар Панахи</actor>
+      <genre>драма, комедия</genre>
+      <imdb-rating>7,4</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Суфражистка</russian>
+         <original>Suffragette</original>
+      </title>
+      <year>2015</year>
+      <country>Великобритания</country>
+      <director>Сара Гаврон</director>
+      <actor>Кэри Маллиган, Хелена Бонем Картер, Брендан Глисон</actor>
+      <genre>драма, биография, история</genre>
+      <imdb-rating>6,9</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Девушка из Дании</russian>
+         <original>The Danish Girl</original>
+      </title>
+      <year>2015</year>
+      <country>Великобритания, США, Германия</country>
+      <director>Том Хупер</director>
+      <actor>Эдди Редмэйн, Алисия Викандер, Маттиас Шонартс</actor>
+      <genre>драма, мелодрама, биография</genre>
+      <imdb-rating>7</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Ма Ма</russian>
+         <original>Ma ma</original>
+      </title>
+      <year>2015</year>
+      <country>Испания, Франция</country>
+      <director>Хулио Медем</director>
+      <actor>Пенелопа Крус, Луис Тосар, Асьер Эчеандиа</actor>
+      <genre>драма</genre>
+      <imdb-rating>6,3</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Разрушение</russian>
+         <original>Demolition</original>
+      </title>
+      <year>2015</year>
+      <country>США</country>
+      <director>Жан-Марк Валле</director>
+      <actor>Джейк Джилленхол, Наоми Уоттс, Крис Купер</actor>
+      <genre>драма</genre>
+      <imdb-rating>7</imdb-rating>
+   </movie>
+   <movie>
+      <title>
+         <russian>Лобстер</russian>
+         <original>The Lobster</original>
+      </title>
+      <year>2015</year>
+      <country>Греция, Ирландия, Нидерланды</country>
+      <director>Йоргос Лантимос</director>
+      <actor>Колин Фаррелл, Рэйчел Вайс, Джессика Барден</actor>
+      <genre>фантастика, драма, мелодрама</genre>
+      <imdb-rating>7,1</imdb-rating>
+   </movie>
+</movies>

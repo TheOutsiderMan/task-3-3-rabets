@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.epam-training.by" xmlns="http://www.epam-training.by">
+  <xs:element name="movies" type="moviesType"/>
+  <xs:complexType name="titleType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="russian"/>
+      <xs:element type="xs:string" name="original"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="movieType">
+    <xs:sequence>
+      <xs:element type="titleType" name="title"/>
+      <xs:element type="xs:int" name="year"/>
+      <xs:element type="xs:string" name="country"/>
+      <xs:element type="xs:string" name="director"/>
+      <xs:element type="xs:string" name="actor"/>
+      <xs:element type="xs:string" name="genre"/>
+      <xs:element type="xs:string" name="imdb-rating"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="moviesType">
+    <xs:sequence>
+      <xs:element type="movieType" name="movie" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
