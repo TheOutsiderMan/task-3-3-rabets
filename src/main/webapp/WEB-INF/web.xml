@@ -5,7 +5,6 @@
     <welcome-file>index.jsp</welcome-file>
   </welcome-file-list>
   <servlet>
-    <description></description>
     <display-name>FrontController</display-name>
     <servlet-name>FrontController</servlet-name>
     <servlet-class>by.tr.web.task_3_3.controller.FrontController</servlet-class>
@@ -14,4 +13,13 @@
     <servlet-name>FrontController</servlet-name>
     <url-pattern>/FrontController</url-pattern>
   </servlet-mapping>
+  <servlet>
+  	<servlet-name>Result</servlet-name>
+  	<jsp-file>/jsp/result.jsp</jsp-file>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>Result</servlet-name>
+  	<url-pattern>/result</url-pattern>
+  </servlet-mapping>
+  
 </web-app>

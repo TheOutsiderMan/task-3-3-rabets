@@ -1,6 +1,7 @@
 package by.tr.web.task_3_3.dao.util.parser.sax;
 
 import java.io.IOException;
+import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -17,7 +18,8 @@ public class MovieSAXParser {
 		XMLReader reader = XMLReaderFactory.createXMLReader();
 		MovieSAXHandler handler = new MovieSAXHandler();
 		reader.setContentHandler(handler);
-		reader.parse(new InputSource(filepath));
+		InputStream inputStream = getClass().getClassLoader().getResourceAsStream(filepath);
+		reader.parse(new InputSource(inputStream));
 		List<Movie> movies = handler.getMovieList();
 		if (movies == null) {
 			return new ArrayList<Movie>();

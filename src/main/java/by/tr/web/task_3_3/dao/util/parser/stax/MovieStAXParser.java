@@ -1,6 +1,5 @@
 package by.tr.web.task_3_3.dao.util.parser.stax;
 
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.InputStream;
 import java.util.ArrayList;
@@ -19,7 +18,7 @@ public class MovieStAXParser {
 	
 	public List<Movie> parse(String filepath) throws FileNotFoundException, XMLStreamException {
 		XMLInputFactory inputFactory = XMLInputFactory.newInstance();
-		InputStream inputStream = new FileInputStream(filepath);
+		InputStream inputStream = getClass().getClassLoader().getResourceAsStream(filepath);
 		XMLStreamReader reader = inputFactory.createXMLStreamReader(inputStream);
 		List<Movie> movies = process(reader);
 		if (movies == null) {
@@ -38,7 +37,7 @@ public class MovieStAXParser {
 			switch (type) {
 			case XMLStreamConstants.START_ELEMENT:
 				String tag = reader.getLocalName();
-				elementName = MovieTagName.valueOf(tag.toUpperCase());
+				elementName = MovieTagName.valueOf(tag.toUpperCase().replace('-', '_'));
 				switch (elementName) {
 				case MOVIE:
 					movie = new Movie();
@@ -67,7 +66,7 @@ public class MovieStAXParser {
 					movie.setGenre(text.toString());
 					break;
 				case IMDB_RATING:
-					double imdbRating = Double.parseDouble(text.toString());
+					double imdbRating = Double.parseDouble(text.toString().replace(',', '.'));
 					movie.setImdbRating(imdbRating);
 					break;
 				case ORIGINAL:
@@ -84,7 +83,7 @@ public class MovieStAXParser {
 				break;
 			case XMLStreamConstants.END_ELEMENT:
 				tag = reader.getLocalName();
-				elementName = MovieTagName.valueOf(tag.toUpperCase());
+				elementName = MovieTagName.valueOf(tag.toUpperCase().replace('-', '_'));
 				switch (elementName) {
 				case MOVIE:
 					movies.add(movie);

@@ -1,6 +1,7 @@
 package by.tr.web.task_3_3.dao.util.parser.dom;
 
 import java.io.IOException;
+import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -8,6 +9,7 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
+import org.xml.sax.InputSource;
 import org.xml.sax.SAXException;
 
 import com.sun.org.apache.xerces.internal.parsers.DOMParser;
@@ -30,7 +32,8 @@ public class MovieDOMParser {
 
 	public List<Movie> parse(String filepath) throws SAXException, IOException {
 		DOMParser domParser = new DOMParser();
-		domParser.parse(filepath);
+		InputStream inputStream = getClass().getClassLoader().getResourceAsStream(filepath);
+		domParser.parse(new InputSource(inputStream));
 		Document document = domParser.getDocument();
 		Element root = document.getDocumentElement();
 		List<Movie> movies = new ArrayList<>();
@@ -49,7 +52,7 @@ public class MovieDOMParser {
 			movie.setCountry(getSingleChildTextContent(movieElement, TAG_COUNTRY));
 			movie.setDirector(getSingleChildTextContent(movieElement, TAG_DIRECTOR));
 			movie.setGenre(getSingleChildTextContent(movieElement, TAG_GENRE));
-			movie.setImdbRating(Double.parseDouble(getSingleChildTextContent(movieElement,TAG_IMDB_RATING )));
+			movie.setImdbRating(Double.parseDouble(getSingleChildTextContent(movieElement,TAG_IMDB_RATING ).replace(',', '.')));
 			movie.setYear(Integer.parseInt(getSingleChildTextContent(movieElement, TAG_YEAR)));
 			movies.add(movie);
 		}

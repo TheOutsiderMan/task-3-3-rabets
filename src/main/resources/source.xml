@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 <movies xmlns="http://www.epam-training.by" xsi:schemaLocation="http://www.epam-training.by schema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <movie>
       <title>
@@ -298,7 +298,7 @@
       <director>Дмитрий Давыдов</director>
       <actor>Алексей Устинов, Николай Солдатов, Михаил Лазарев</actor>
       <genre>драма</genre>
-      <imdb-rating />
+      <imdb-rating>6</imdb-rating>
    </movie>
    <movie>
       <title>
@@ -514,7 +514,7 @@
       <director>Кирилл Плетнёв</director>
       <actor>Светлана Ходченкова, Стефания Лебедева, Ольга Сирина</actor>
       <genre>короткометражка</genre>
-      <imdb-rating />
+      <imdb-rating>7,6</imdb-rating>
    </movie>
    <movie>
       <title>
@@ -1150,7 +1150,7 @@
       <director>Андрей Курейчик</director>
       <actor>Александр Куллинкович, Артем Курень, Юрий Наумов</actor>
       <genre>комедия</genre>
-      <imdb-rating />
+      <imdb-rating>0</imdb-rating>
    </movie>
    <movie>
       <title>

@@ -14,9 +14,9 @@ body {
 </head>
 <body>
 	<form action="FrontController" method="get" id="form">
-			<input type="submit" name="parser-type" value="SAX">
-			<input type="submit" name="parser-type" value="StAX">
-			<input type="submit" name="parser-type" value="DOM">
+			<input type="submit" name="parser_type" value="SAX">
+			<input type="submit" name="parser_type" value="StAX">
+			<input type="submit" name="parser_type" value="DOM">
 	</form>
 </body>
 </html>

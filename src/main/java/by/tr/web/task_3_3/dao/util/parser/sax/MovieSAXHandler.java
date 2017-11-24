@@ -12,7 +12,9 @@ import by.tr.web.task_3_3.domain.Movie;
 import by.tr.web.task_3_3.domain.Title;
 
 public class MovieSAXHandler extends DefaultHandler {
-
+	private static final String TAG_TITLE = "title";
+	private static final String TAG_MOVIE = "movie";
+	
 	private List<Movie> movieList = new ArrayList<Movie>();
 	private Movie movie;
 	private Title title;
@@ -25,11 +27,9 @@ public class MovieSAXHandler extends DefaultHandler {
 	@Override
 	public void startElement(String uri, String localName, String qName, Attributes attributes) throws SAXException {
 		text = new StringBuilder();
-		String tagMovie = MovieTagName.MOVIE.toString().toLowerCase();
-		String tagTitle = MovieTagName.TITLE.toString().toLowerCase();
-		if (qName.equals(tagMovie)) {
+		if (qName.equals(TAG_MOVIE)) {
 			movie = new Movie();
-		} else if (qName.equals(tagTitle)) {
+		} else if (qName.equals(TAG_TITLE)) {
 			title = new Title();
 		}
 	}
@@ -51,7 +51,7 @@ public class MovieSAXHandler extends DefaultHandler {
 			movie.setGenre(text.toString());
 			break;
 		case IMDB_RATING:
-			movie.setImdbRating(Double.parseDouble(text.toString()));
+			movie.setImdbRating(Double.parseDouble(text.toString().replace(',', '.')));
 			break;
 		case MOVIE:
 			movieList.add(movie);

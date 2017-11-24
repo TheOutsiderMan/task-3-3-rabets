@@ -1,6 +1,5 @@
 package by.tr.web.task_3_3.service.impl;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import by.tr.web.task_3_3.dao.DAOFactory;
@@ -21,9 +20,6 @@ public class MovieServiceImpl implements MovieService {
 			movies = movieDAO.parse(parserType);
 		} catch (DAOException e) {
 			throw new ServiceException(e);
-		}
-		if (movies == null) {
-			movies =  new ArrayList<Movie>();
 		}
 		return movies;
 	}
